@@ -7,12 +7,10 @@ public interface RoomInterface {
 	
 	public String getRmId();
 	
-	public String getRmLevel();
+	public int getRmLevel();
 	
 	public String getRmName();
 	
-	public String getRmDoor();
-	
-	
+	public String getRmDoor();	
 	
 }

@@ -10,7 +10,7 @@ public class RoomView {
 	public static void main(String[] args) {
 
 
-		LinkedList<Room> roomListLevel1 = new LinkedList<Room>();
+		/*LinkedList<Room> roomListLevel1 = new LinkedList<Room>();
 		LinkedList<Room> roomListLevel2 = new LinkedList<Room>();
 		LinkedList<Room> roomListLevel3 = new LinkedList<Room>();
 		LinkedList<Room> roomListLevel4 = new LinkedList<Room>();
@@ -120,6 +120,9 @@ public class RoomView {
 				}
 			}
 		}
+	}
+}
+*/
 	}
 }
 
